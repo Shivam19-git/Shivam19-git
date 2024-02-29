@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000; /* Blue background */
+  }
+  
+  .clock {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10em;
+    font-weight: bold;
+    color: #ffffff; /* White text color */
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Soft text shadow */
+  }
+  
+  
+  
+  
